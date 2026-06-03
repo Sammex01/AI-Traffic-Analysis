@@ -33,7 +33,7 @@ if results[0].boxes.id is not None:
             'X_Center': (box[0] + box[2]) / 2, 
             'Y_Center': (box[1] + box[3]) / 2
         })
-
+```
 ### 📈 Extracted Data Insights
 The pipeline succe![Sentiment Analysis Bar Chart](sentiment_chart.png)ssfully processed the raw footage and extracted **103 unique entities**, utilizing tracking IDs to completely eliminate multi-frame duplication errors. 
 
