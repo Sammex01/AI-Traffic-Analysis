@@ -38,7 +38,7 @@ if results[0].boxes.id is not None:
 The pipeline succe![Sentiment Analysis Bar Chart](sentiment_chart.png)ssfully processed the raw footage and extracted **103 unique entities**, utilizing tracking IDs to completely eliminate multi-frame duplication errors. 
 
 ## Visualisation: **Traffic Volume Breakdown:**
-![Chart](trffic_plot.png)
+![Chart](traffic_plot.png)
 
 
 ### 💡 Key Insights & Business Value
